@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-veoz&^_ctb(51$^kkmevbr4@$@&%dh!%c6)tmeoamibo9x2ld#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.herokuapp.com','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['.netlify.com','localhost','127.0.0.1']
 
 
 # Application definition
